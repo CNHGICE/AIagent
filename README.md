@@ -12,7 +12,7 @@
 操作系统：Windows 11
 Qt版本：Qt 6.x MSVC2022 64‑bit
 第三方服务：Ollama本地大模型服务
-使用模型：qwen2.5‑vl:2b
+使用模型：qwen2.5‑vl:7b
 
 ## 前置运行准备
 1. 电脑安装 Ollama，确认托盘Ollama后台服务已启动，默认服务地址：`http://127.0.0.1:11434`
