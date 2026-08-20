@@ -18,4 +18,4 @@ Qt版本：Qt 6.x MSVC2022 64‑bit
 1. 电脑安装 Ollama，确认托盘Ollama后台服务已启动，默认服务地址：`http://127.0.0.1:11434`
 2. PowerShell执行命令下载模型：
 ```powershell
-ollama pull qwen2.5-vl:2b
+ollama pull qwen2.5-vl:7b
